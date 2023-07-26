@@ -27,6 +27,7 @@ nav a{
   letter-spacing:1px;
   position:relative;
   display:inline-block;
+  
 }
 nav a:before{
   content:'';
