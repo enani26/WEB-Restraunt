@@ -18,44 +18,81 @@ let products = [
         id: 1,
         name: 'Chicken Ranch Pizza',
         image: 'pizza5.jpg',
-        price: 9
+        price: 9.00
     },
     {
         id: 2,
-        name: 'PRODUCT NAME 2',
-        image: '2.PNG',
-        price: 120000
+        name: 'Chicken BBQ',
+        image: 'pizza6.jpg',
+        price: 11
     },
     {
         id: 3,
-        name: 'PRODUCT NAME 3',
-        image: '3.PNG',
-        price: 220000
+        name: 'Shrimp pizza',
+        image: 'pizza7.jpg"',
+        price: 13
     },
     {
         id: 4,
-        name: 'PRODUCT NAME 4',
-        image: '4.PNG',
-        price: 123000
+        name: 'Sea-Food pizza',
+        image: 'pizza8.jpg',
+        price: 18
     },
     {
         id: 5,
-        name: 'PRODUCT NAME 5',
-        image: '5.PNG',
-        price: 320000
+        name: 'Pepperoni pizza',
+        image: 'pizza9.jpeg',
+        price: 22
     },
     {
         id: 6,
-        name: 'PRODUCT NAME 6',
-        image: '6.PNG',
-        price: 120000
+        name: 'Corn Tikki-Spicy fried aloo',
+        image: 'snacks1.jpg',
+        price: 15
     },
     {
         id: 7,
-        name: 'PRODUCT NAME 7',
-        image: '7.PNG',
-        price: 120000
+        name: 'Bread besan toast',
+        image: 'snacks2.jpg',
+        price: 35
+    },{
+        id: 8,
+        name: 'Healthy soya nugget snacks',
+        image: 'snacks3.jpg',
+        price: 20
+    },
+    {
+        id: 9,
+        name: 'Tandoori soya chunks',
+        image: 'snacks4.jpg',
+        price: 30
+    },
+    {
+        id: 10,
+        name: 'Single cup Brew',
+        image: 'drink1.jpg',
+        price: 7
+    },
+    {
+        id: 11,
+        name: 'Caffe Americano',
+        image: 'drinks2.jpg',
+        price: 9
+    },
+    {
+        id: 12,
+        name: 'Caramel Macchiato',
+        image: 'drinks3.jpg',
+        price: 15
+    },
+    {
+        id: 13,
+        name: 'Standard black coffee',
+        image: 'drink4.jpg',
+        price: 8
     }
+
+
 ];
 let listCards  = [];
 function initApp(){
